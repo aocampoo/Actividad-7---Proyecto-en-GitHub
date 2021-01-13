@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+}
+footer{
+
+    height: 200px;
+
+}
+
+body{
+    padding: 0px 20px;
+    background-color: rgb(241, 202, 241);
+    margin: 0;
+    
+}
+
+p {
+
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.parrafo{ 
+    padding-top: 30px;
+    font-size: 10px;
+
+}
+
+
+.texto1{
+    font-size: 20px;
+   
+
+
+}
+
+
+ol {
+  
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
